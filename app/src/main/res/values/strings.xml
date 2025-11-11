@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="piscine">Piscine</string>
+    <string name="button">Calculer</string>
+    <string name="nombre_de_pieces">Nombre de pièces :</string>
+    <string name="_0">0</string>
+    <string name="surface">Surface :</string>
+    <string name="votre_adresse">Votre adresse ..</string>
+    <string name="adresse">Adresse :</string>
+    <string name="votre_nom">Votre nom ..</string>
+    <string name="nom">Nom :</string>
+    <string name="calcul_des_imp_ts_locaux">Calcul des impôts locaux</string>
+    <string-array name="pieces">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
